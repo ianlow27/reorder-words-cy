@@ -1,3 +1,4 @@
+// This is a testharness to test the functionality of the class reorder-word-cy
 <?php
 
 require_once("../vendor/autoload.php");
